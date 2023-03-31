@@ -1,6 +1,6 @@
 Name:		texlive-gensymb
 Version:	64740
-Release:	1
+Release:	2
 Summary:	Generic symbols for both text and math mode
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/gensymb
