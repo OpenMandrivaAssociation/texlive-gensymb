@@ -3,7 +3,7 @@ Version:	64740
 Release:	2
 Summary:	Generic symbols for both text and math mode
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/gensymb
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/gensymb
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/gensymb.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/gensymb.doc.r%{version}.tar.xz
